@@ -3,7 +3,7 @@
 #include <map>
 #include <string>
 #include <fstream>
-#include "binary_tree.hpp"
+#include <binary_tree/binary_tree.hpp>
 
 namespace abramov
 {
