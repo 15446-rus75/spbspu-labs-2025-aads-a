@@ -1,7 +1,7 @@
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
 #include "edge.hpp"
-#include "hash_table.hpp"
+#include <hash_table/hash_table.hpp>
 #include "simple_array.hpp"
 
 namespace abramov
